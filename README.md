@@ -7,4 +7,6 @@ The chain is implemented mostly through HashMaps and ArrayLists. It has a memory
 
 ###How to execute
 Call MarkovChain.java. Input a .txt file containing your sample book or books; I've included manybooks.txt, a collection of classic works from Project Gutenberg. The input should look like
+    ```
     [terminal] MarkovChain < manybooks.txt
+    ```
